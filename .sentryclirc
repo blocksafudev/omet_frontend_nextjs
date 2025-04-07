@@ -1,0 +1,6 @@
+[defaults]
+org=blocksafu
+project=auditdefi-nextjs
+
+[auth]
+token=4779a826a2ce4ed1b17a36ed21adea2fcef302b36c5740029620995302b22218

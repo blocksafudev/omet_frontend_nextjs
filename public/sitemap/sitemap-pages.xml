@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+  <url>
+    <loc>https://metti.com/affiliate</loc>
+    <lastmod>2024-11-25T08:42:27.065Z</lastmod>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://metti.com/</loc>
+    <lastmod>2024-11-25T08:42:27.065Z</lastmod>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://metti.com/earning</loc>
+    <lastmod>2024-11-25T08:42:27.065Z</lastmod>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://metti.com/mining</loc>
+    <lastmod>2024-11-25T08:42:27.065Z</lastmod>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://metti.com/staking%2Fclaim</loc>
+    <lastmod>2024-11-25T08:42:27.065Z</lastmod>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://metti.com/staking</loc>
+    <lastmod>2024-11-25T08:42:27.065Z</lastmod>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://metti.com/staking%2Funstake</loc>
+    <lastmod>2024-11-25T08:42:27.065Z</lastmod>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://metti.com/mining%2Fdetails</loc>
+    <lastmod>2024-11-25T08:42:27.065Z</lastmod>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://metti.com/mining%2Ffarms</loc>
+    <lastmod>2024-11-25T08:42:27.065Z</lastmod>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://metti.com/mining%2Finventory%2Fdetails</loc>
+    <lastmod>2024-11-25T08:42:27.065Z</lastmod>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://metti.com/mining%2Finventory</loc>
+    <lastmod>2024-11-25T08:42:27.065Z</lastmod>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://metti.com/staking%2Fleaderboard</loc>
+    <lastmod>2024-11-25T08:42:27.065Z</lastmod>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://metti.com/staking%2Fprofile</loc>
+    <lastmod>2024-11-25T08:42:27.065Z</lastmod>
+    <priority>1</priority>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>

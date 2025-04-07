@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="292a2139-f70e-413a-8c87-febe337ec52d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RowMembership.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RowMembership.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2mEodOlx29woyiKow0PxA6b0zEy" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/febrianreza/Project/Blocksafu/Dapps/MET_Project/metti_frontend/src/hooks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Shell Script&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/febrianreza/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/hooks" />
+      <recent name="$PROJECT_DIR$/src/pages/staking" />
+      <recent name="$PROJECT_DIR$/src/configs" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/affiliate" />
+      <recent name="$PROJECT_DIR$/src/components/wallet" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="292a2139-f70e-413a-8c87-febe337ec52d" name="Changes" comment="" />
+      <created>1726651182627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726651182627</updated>
+      <workItem from="1726651184111" duration="597000" />
+      <workItem from="1726906897243" duration="1967000" />
+      <workItem from="1726908876444" duration="4362000" />
+      <workItem from="1727012444427" duration="107000" />
+      <workItem from="1727051589185" duration="19000" />
+      <workItem from="1727235858019" duration="60638000" />
+      <workItem from="1727857427500" duration="13106000" />
+      <workItem from="1728020678163" duration="6557000" />
+      <workItem from="1728082750070" duration="32504000" />
+      <workItem from="1728346147141" duration="28239000" />
+      <workItem from="1728815411649" duration="15805000" />
+      <workItem from="1728919207893" duration="19004000" />
+      <workItem from="1729132591263" duration="3270000" />
+      <workItem from="1729493026429" duration="16000" />
+      <workItem from="1729505269155" duration="2540000" />
+      <workItem from="1729516521238" duration="356000" />
+      <workItem from="1729570414917" duration="8790000" />
+      <workItem from="1729920269697" duration="14215000" />
+      <workItem from="1730096751194" duration="79000" />
+      <workItem from="1730354281714" duration="14845000" />
+      <workItem from="1730469489918" duration="430000" />
+      <workItem from="1730955201205" duration="50000" />
+      <workItem from="1738310671484" duration="2125000" />
+      <workItem from="1738362029531" duration="21059000" />
+      <workItem from="1738600359659" duration="13641000" />
+      <workItem from="1738661080626" duration="1570000" />
+      <workItem from="1738723255082" duration="31007000" />
+      <workItem from="1738901614025" duration="25581000" />
+      <workItem from="1739021732794" duration="17985000" />
+      <workItem from="1739285620909" duration="31644000" />
+      <workItem from="1739579154535" duration="44000" />
+      <workItem from="1740224314160" duration="4090000" />
+      <workItem from="1740443445423" duration="497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/token/[chainId]/[pool_id].js</url>
+          <line>234</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/game/history.js</url>
+          <line>171</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/game/history.js</url>
+          <line>145</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/wallet/wallet-options.js</url>
+          <line>150</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/ListTransaction.js</url>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

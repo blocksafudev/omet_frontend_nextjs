@@ -1,0 +1,11 @@
+.env
+.git
+.github
+.gitignore
+.next
+docker-compose.yml
+Dockerfile
+Jenkinsfile
+README.md
+# yarn.lock
+.dockerignore
